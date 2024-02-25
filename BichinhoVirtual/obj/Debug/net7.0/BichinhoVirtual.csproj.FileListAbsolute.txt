@@ -1,0 +1,14 @@
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\bin\Debug\net7.0\BichinhoVirtual.exe
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\bin\Debug\net7.0\BichinhoVirtual.deps.json
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\bin\Debug\net7.0\BichinhoVirtual.runtimeconfig.json
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\bin\Debug\net7.0\BichinhoVirtual.dll
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\bin\Debug\net7.0\BichinhoVirtual.pdb
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.GeneratedMSBuildEditorConfig.editorconfig
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.AssemblyInfoInputs.cache
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.AssemblyInfo.cs
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.csproj.CoreCompileInputs.cache
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.dll
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\refint\BichinhoVirtual.dll
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.pdb
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\BichinhoVirtual.genruntimeconfig.cache
+D:\pooCsharp\exercícios C#\BichinhoVirtual\BichinhoVirtual\obj\Debug\net7.0\ref\BichinhoVirtual.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BichinhoVirtual/1.0.0": {
+        "runtime": {
+          "BichinhoVirtual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BichinhoVirtual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
